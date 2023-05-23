@@ -9,7 +9,7 @@
     <title>Question</title>
 </head>
 <body>
-    <?php require "questabconn.php"?>
+    <?php require "quesconn.php"?>
     <div class="container">               
      <form method="POST" >    
           <div class="index">
